@@ -6,7 +6,7 @@ The project is intended as a preprocessing and exploratory analysis framework fo
 
 During the creation of this project, the public dataset DOSE-I was used. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18483292.svg)](https://doi.org/10.5281/zenodo.18483292)
 
-This project is licensed under [`Apache License 2.0`](LICENSE).
+ADE was developed by Andreas Schwab for the SAFE-AI research project and is licensed under [`Apache License 2.0`](LICENSE).
 
 ## Features
 
@@ -599,3 +599,8 @@ Adjust these exclusions if selected anonymized examples are intentionally includ
 ## Research Use
 
 This software is intended for research, development, and educational use. It is not a medical device and must not be used as the sole basis for clinical decisions.
+
+##  Acknowledgements
+
+This work was supported by Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Project number 547230187.
+
