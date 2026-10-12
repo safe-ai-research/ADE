@@ -1,0 +1,22 @@
+# ADE v1 runtime dependencies (Python 3.12)
+
+# Core data processing and exports
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+
+# EEG processing and automatic rejection threshold
+mne
+autoreject
+
+# Required by MNE FastICA and by optional processing modules
+scikit-learn
+
+# Wavelet marker features and wavelet signal variant
+PyWavelets
+
+# Optional signal variants retained in ADE v1
+asrpy
+pyriemann
